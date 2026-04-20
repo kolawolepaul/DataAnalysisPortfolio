@@ -34,4 +34,4 @@ An interactive Power BI dashboard was created to uncover insights that can guide
 - Patient volume increased from **4,338 to 4,878** between the analyzed years.
 
 ## 📑 Dashboard Preview
-![Dashboard Screenshot](PowerBI/Hospital_ER_Report/Hospital_ER_Dashboard.jpg)
+![Dashboard Screenshot](Hospital_ER_Dashboard.jpg)
