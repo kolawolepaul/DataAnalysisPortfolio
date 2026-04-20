@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project analyzes hospital emergency room visits to understand patient demographics, visit types, satisfaction, and referral patterns.
 
-An interactive Power BI dashboard was created to uncover insights that can guide hospital management in resource allocation and patient care improvement...........
+An interactive Power BI dashboard was created to uncover insights that can guide hospital management in resource allocation and patient care improvement.
 
 ## 📍 Objectives
 - Track total patient visits across different time periods
@@ -34,4 +34,4 @@ An interactive Power BI dashboard was created to uncover insights that can guide
 - Patient volume increased from **4,338 to 4,878** between the analyzed years.
 
 ## 📑 Dashboard Preview
-![Dashboard Screenshot](Hospital_ER_Dashboard.jpg)
+![Dashboard Screenshot](https://github.com/kolawolepaul/DataAnalysisPortfolio/blob/main/PowerBI/Hospital%20ER%20Report/Hospital%20ER%20Dashboard.jpg)
