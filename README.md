@@ -3,7 +3,7 @@
 
 ## ✅✅ ABOUT ME AND WHAT I DO?
 
-- I'm a **Data Analyst** with 6 months of expertise utilizing **Excel and Power BI** to turn raw data into actionable insights.
+- I'm a **Data Analyst** with over 6 months of expertise utilizing **Excel and Power BI** to turn raw data into actionable insights.
 
 - I specialize in cleaning, organizing, and analyzing statistics to identify trends and patterns that help people make better decisions.
   I use Excel formulas, pivot tables, and data visualization tools to simplify difficult data.
