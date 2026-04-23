@@ -14,9 +14,9 @@ An interactive Power BI dashboard was created to uncover insights that can guide
 
 ## 📊 Dataset
 - **Source:** hospital dataset
-- **Rows:* e.g. 9,216 records
+- **Rows:** 9,216 records
 - **Columns:** Age group, Gender, Appointment type, Wait time, Department referral, Patient satisfaction, etc.
-- **Timeframe:** in total: 8 hrs
+- **Timeframe:** 2019-2020
 
 ## 📈 Key Metrics (KPIs)
 - **Total Patient Visits:** 9,216
