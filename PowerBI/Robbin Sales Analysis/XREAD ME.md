@@ -50,3 +50,7 @@ A Power BI interactive dashboard was created to assist stakeholders in tracking 
 
 ## 📌 Conclusion
 The dashboard reveals strong business growth driven primarily by bike sales and high-performing regions such as Australia and Southwest. Customer purchasing behavior indicates professionals are the most valuable customer segment, while yearly trends show substantial revenue and quantity growth from 2015 to 2017. These insights can support inventory planning, targeted marketing strategies, and regional sales optimization.
+
+
+## 🖼 Dashboard Preview
+![Dashboard Screenshot](https://github.com/kolawolepaul/DataAnalysisPortfolio/blob/main/PowerBI/Robbin%20Sales%20Analysis/Robbin%20company%20sales%20analysis%20dashboard.jpg)
